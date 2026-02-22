@@ -11,7 +11,7 @@ export default function PoweredBy(props) {
       <a
         href='kingsley.com'
         className='underline justify-start'>
-        kingsley Qi{siteConfig('VERSION')}
+        kingsley Qi
       </a>
       .
     </div>
