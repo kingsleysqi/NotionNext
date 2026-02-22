@@ -40,8 +40,8 @@ const CONFIG = {
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
     '你好！我是',
-    'Kingsley 架构师  自由信徒'
-'Exit the logic, Enter the life'
+    'Kingsley 架构师  自由信徒',
+'Exit the logic, Enter the life',
   ],
 
   // 个人资料底部按钮
