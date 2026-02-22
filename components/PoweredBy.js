@@ -11,7 +11,7 @@ export default function PoweredBy(props) {
       <a
         href='kingsley.com'
         className='underline justify-start'>
-        NotionNext {siteConfig('VERSION')}
+        kingsley Qi{siteConfig('VERSION')}
       </a>
       .
     </div>
